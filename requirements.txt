@@ -1,5 +1,5 @@
 streamlit
 tensorflow==2.18.0
-numpy<2.1
+numpy==1.26.4
 pandas
 Pillow
