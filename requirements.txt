@@ -1,4 +1,5 @@
 streamlit
-tensorflow
-numpy
-pillow
+tensorflow==2.18.0
+numpy<2.1
+pandas
+Pillow
